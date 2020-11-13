@@ -1,5 +1,6 @@
 #include<iostream>
 #include<math.h>
+#include<fstream>
 using namespace std;
 
 double get_money(string prompt);
